@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    border: 2px solid black;
+}
+
+/* ul.nav-links {
+    list-style-type: none;
+}
+
+ul.nav-links li {
+    display: inline-block;
+} */
+
+.nav-links {
+    list-style-type: none;
+}
+
+.nav-links_li {
+    display: inline-block;
+} 
